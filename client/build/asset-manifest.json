@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29c741c0.css",
+    "main.js": "/static/js/main.630754d0.js",
+    "static/media/alphabet.png": "/static/media/alphabet.26be20e8c98707a830c4.png",
+    "static/media/tulips.png": "/static/media/tulips.a03a39773a1207bfd996.png",
+    "static/media/paint2.png": "/static/media/paint2.a0e8b63620c58a9957a2.png",
+    "static/media/envelope2.png": "/static/media/envelope2.b7517404e127e9fd67a9.png",
+    "static/media/adminphoto.jpg": "/static/media/adminphoto.c56539e84052809caa7d.jpg",
+    "static/media/holes.jpg": "/static/media/holes.f6a13a97cd1122e34117.jpg",
+    "static/media/mushroom.jpg": "/static/media/mushroom.b078b651ed453e5a35d2.jpg",
+    "static/media/safeopen.jpg": "/static/media/safeopen.086daf6151ab8528647b.jpg",
+    "static/media/clock.jpg": "/static/media/clock.2060ba35f0270244d3bf.jpg",
+    "static/media/mango.jpg": "/static/media/mango.cd58a6d415ad561aff7b.jpg",
+    "static/media/safeclose.jpg": "/static/media/safeclose.cc753f700fd630f60d79.jpg",
+    "static/media/queue.jpg": "/static/media/queue.6b4e34e48ce33e518d55.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.29c741c0.css.map": "/static/css/main.29c741c0.css.map",
+    "main.630754d0.js.map": "/static/js/main.630754d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c741c0.css",
+    "static/js/main.630754d0.js"
+  ]
+}
